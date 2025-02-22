@@ -1,9 +1,5 @@
 <br clear="both">
 
-<div align="left">
-  <img height="200" src="https://pa1.aminoapps.com/6284/fbc3fca8a385fe95df9311d944fbe39fd64d1c2d_hq.gif"  />
-</div>
-
 ###
 
 <br clear="both">
