@@ -14,7 +14,7 @@
   <a href="https://www.youtube.com/@alansastre1578" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="179" height="47" alt="youtube logo"  />
   </a>
-  <a href="www.linkedin.com/in/alan-sastre" target="_blank">
+  <a href="www.linkedin.com/in/alan-sastre" target="">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="179" height="47" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="179" height="47" alt="gmail logo"  />
