@@ -53,7 +53,6 @@
 
 ###
 
-<img align="right" height="300" src="https://media1.tenor.com/m/Fxf0peSYg_IAAAAd/invincible-edit.gif"  />
 
 ###
 
