@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Alan%20Sastre&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Systems%20Engineering%20Student&descAlignY=60&descSize=20" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Focused+on+Code%2C+Fueled+by+Curiosity;Backend+%7C+APIs+REST+%7C+Python+%26+Java;Competitive+Programming+%2B+Cybersecurity;Debian+Contributor+%F0%9F%90%A7;Based+in+Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Focused+on+Code%2C+Fueled+by+Curiosity;Backend+%7C+APIs+REST+%7C+Python+%26+Java;Competitive+Programming+%2B+Cybersecurity;Based+in+Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Typing SVG" />
 </a>
 
 <br/>
